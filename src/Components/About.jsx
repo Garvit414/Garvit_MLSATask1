@@ -16,27 +16,25 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/Simple Background.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Just a simple background image";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am Garvit Agarwal, pursuing my bachelors from the KIET Group of Institutions in the CSE branch, 3rd year. My enthusiasm lies in exploring the latest technologies and delving into new tech stacks.As an avid ML and open-source enthusiast, I actively contribute to the open-source community through programs like GSSOC'23 and SWOC 3.0. I have done an ML internship under the Ministry of Defence, where I gained valuable experience. I am an enthusiastic individual who is always eager to embrace new technologies.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Machine Learning",
+  "Open Source",
+  "Competetive Programming",
+  "Python",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation.  I am an enthusiastic individual who is always eager to embrace new technologies.";
 
 const About = () => {
   return (

@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Book.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Read the books";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Red Wine Quality Predictor",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Predict the Quality of the red wine given the physiochemical data of the wine. Improved the accuracy of the model using EDA and features selection using correlations.",
+    url: "https://github.com/Garvit414/Projects/tree/main/Red_Wine_Quality_Prediction",
   },
   {
-    title: "Web Development for Beginners",
+    title: "A Eye Vision",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An extraordinary device of AIoT for blind people and create social impact as well Taking video input from esp32 camera module and converting them into speech by using object detection for the blinds.",
+    url: "https://github.com/Garvit414/A-EYE-VISION",
   },
   {
-    title: "My Resume Site",
+    title: "Basic Python Projects",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The basic python projects or tasks.",
+    url: "https://github.com/Garvit414/Analystt.ai-Task",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Zero Fi",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "ZeroFi is the website integrated with the Machine Learning and Blockchain that helps to provide microloans to people with Zero-interest loans, pure CSR.",
+    url: "https://github.com/Garvit414/ZeroFi",
   },
 ];
 
